@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+18:47:26	3727/3727	---MCZ	403	error ('Forbidden')	text/html	date:Thu,%2027%20Jul%202023%2015:47:26%20GMT	https://worldofsadia.com/robots.txt		(from )
+18:47:26	5435/5435	---MCZ	403	error ('Forbidden')	text/html	date:Thu,%2027%20Jul%202023%2015:47:26%20GMT	https://worldofsadia.com/	C:/Users/PC/Desktop/spo/a/worldofsadia.com/index.html	(from )
